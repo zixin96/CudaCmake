@@ -1,0 +1,6 @@
+build/
+deps/.bootstrap.json
+deps/archives/
+deps/src/
+imgui.ini
+.vs
